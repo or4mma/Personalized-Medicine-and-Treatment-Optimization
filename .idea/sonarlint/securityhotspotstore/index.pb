@@ -5,3 +5,5 @@ S
 #contracts/personal-health-data.clar,6/3/63ba4ff973207631152a0e618712ec84f3f0415c
 R
 "tests/personal-health-data.test.ts,3/5/35cf1e64fdc0c8eda128b1e5a6bb7bcb771c0a27
+R
+"contracts/health-data-sharing.clar,2/1/21abef4e6b03fa9dc0859ee86a43e4de05540251
