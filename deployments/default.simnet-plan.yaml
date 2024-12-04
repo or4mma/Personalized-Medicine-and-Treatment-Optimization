@@ -50,11 +50,6 @@ plan:
     - id: 0
       transactions:
         - emulated-contract-publish:
-            contract-name: personal-health-data
-            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
-            path: contracts/personal-health-data.clar
-            clarity-version: 2
-        - emulated-contract-publish:
             contract-name: health-data-sharing
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/health-data-sharing.clar
@@ -63,5 +58,15 @@ plan:
             contract-name: health-marketplace
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/health-marketplace.clar
+            clarity-version: 2
+        - emulated-contract-publish:
+            contract-name: personal-health-data
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/personal-health-data.clar
+            clarity-version: 2
+        - emulated-contract-publish:
+            contract-name: wearable-device-integration
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/wearable-device-integration.clar
             clarity-version: 2
       epoch: "2.5"

@@ -15,3 +15,5 @@ P
  tests/health-marketplace.test.ts,0/a/0a2ecd4eb581326423a9bc13552bbd9894f68f2a
 Z
 *contracts/wearable-device-integration.clar,e/f/ef1cfe36b64b022d4d6768bbc81b4680a78c213b
+Y
+)tests/wearable-device-integration.test.ts,4/b/4b8147d71a08c4460fa7a02681e3b63a840e40ee
