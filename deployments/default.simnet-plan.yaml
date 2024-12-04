@@ -55,6 +55,11 @@ plan:
             path: contracts/health-data-sharing.clar
             clarity-version: 2
         - emulated-contract-publish:
+            contract-name: health-marketplace
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/health-marketplace.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: personal-health-data
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/personal-health-data.clar

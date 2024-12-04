@@ -9,3 +9,7 @@ R
 "contracts/health-data-sharing.clar,2/1/21abef4e6b03fa9dc0859ee86a43e4de05540251
 Q
 !tests/health-data-sharing.test.ts,2/f/2f142a27547c56f33c494b09a264c004547e6246
+Q
+!contracts/health-marketplace.clar,d/d/ddfc7b41fcfa123c5ed2f2389d05321e7a6b50e9
+P
+ tests/health-marketplace.test.ts,0/a/0a2ecd4eb581326423a9bc13552bbd9894f68f2a

@@ -10,6 +10,11 @@ path = 'contracts/health-data-sharing.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.health-marketplace]
+path = 'contracts/health-marketplace.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.personal-health-data]
 path = 'contracts/personal-health-data.clar'
 clarity_version = 2
